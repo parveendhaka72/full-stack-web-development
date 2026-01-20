@@ -1,4 +1,7 @@
-## Contribution Guidelines
 
-Thank you for contributing! Please fork the repository and create a pull request.
-Thank you for contributing! Please fork the repository and create a pull request.
+
+# BeatHub API
+
+Welcome to the backend of BeatHub.
+- Status: Initial Setup
+- Developer: [Your Name]
